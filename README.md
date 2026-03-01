@@ -30,7 +30,7 @@ With a strong background in competitive programming, I have solved 3,000+ proble
 
 ## 📈 GitHub Stats
 
-(You can add a GitHub stats badge later)
+I'll add later
 
 ---
 
