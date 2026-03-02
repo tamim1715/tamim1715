@@ -1,40 +1,118 @@
-# Hi, I'm Shahadath Hossain Tamim 👋
+<!-- ======================= HEADER ======================= -->
 
-Senior Software Engineer @ KloverCloud | Kubernetes | Spring Boot | GoLang | Microservices | Docker | C++ | Competitive Programmer
+<h1 align="center">Hi 👋, I'm Shahadath Hossain Tamim</h1>
+<h3 align="center">Senior Software Engineer | Backend & Distributed Systems Engineer</h3>
 
-I am a passionate Senior Software Engineer with over 4+ years of experience developing scalable and efficient backend systems. My core expertise includes problem-solving, microservices architecture, and performance optimization, with strong proficiency in C, C++, Java, Go, and Spring Boot.
+<p align="center">
+  <a href="https://github.com/tamim447">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Microservices+Architect;Kubernetes+%7C+Docker+%7C+CI%2FCD;Competitive+Programmer+%7C+3000%2B+Problems+Solved" />
+  </a>
+</p>
 
-With a strong background in competitive programming, I have solved 3,000+ problems across platforms like LeetCode (1,100+), Codeforces (900+), and UVA (300+). I participated in the ACM ICPC Dhaka Regional Contest 2020.
+---
+
+## 👨‍💻 About Me
+
+- 💼 Senior Software Engineer at **KloverCloud**
+- ⚙️ 4+ years building scalable backend systems
+- 🧠 Strong background in Data Structures & Algorithms (3000+ problems solved)
+- 🏆 ACM ICPC Dhaka Regional Participant
+- 🚀 Passionate about distributed systems, performance optimization & clean architecture
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** C, C++, Go, Java
-- **Backend:** Spring Boot, Golang, REST APIs
-- **DevOps:** Kubernetes, Docker, Helm, ArgoCD, Argo workflow
-- **Database:** MongoDB, MySQL, Redis
-- **Security:** JWT, Keycloak, AzureAD, RBAC, User Policy
-- **Cloud & Tools:** GitHub Actions, CI/CD pipelines
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=go,java,cpp,c" />
+</p>
+
+### ⚙️ Backend & Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+  <img src="https://img.shields.io/badge/Microservices-00BFFF?style=for-the-badge&logo=icloud&logoColor=white" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,githubactions" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+### 🔐 Security
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Keycloak-0052CC?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/AzureAD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 Kubernetes Deployment Automation System  
-🔹 Authentication Service with JWT & Keycloak, AzureAD
-🔹 Payment Integration (Stripe, SSLCommerz)  
-🔹 CI/CD Pipeline with Tekton & Trivy
+- 🔹 **Kubernetes Deployment Automation Platform**
+- 🔹 **Production-grade Authentication Service (JWT + Keycloak + AzureAD)**
+- 🔹 **Payment Gateway Integration (Stripe, SSLCommerz)**
+- 🔹 **GitOps-based CI/CD using ArgoCD & Tekton**
+- 🔹 **Secure Magic Link Authentication API (Go + MongoDB)**
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamim447&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamim447&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 Contribution Graph
 
-- LinkedIn: https://www.linkedin.com/in/shahadath-hossain-tamim-b26b80156/
-- Email: shahadathhossain447@gmail.com
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamim447&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Competitive Programming
+
+- 🟢 3000+ Problems Solved
+- 🔵 LeetCode: 1100+
+- 🔴 Codeforces: 900+
+- 🟣 UVA: 300+
+- 🏆 ACM ICPC Dhaka Regional 2020 Participant
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/tamim447">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shahadath-hossain-tamim-b26b80156/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:shahadathhossain447@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💡 Philosophy
+
+> “Consistency beats intensity. Clean code beats clever code.”
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories.
+</p>
