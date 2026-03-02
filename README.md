@@ -30,7 +30,7 @@ With a strong background in competitive programming, I have solved 3,000+ proble
 
 ## 📈 GitHub Stats
 
-I'll add later
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app)
 
 ---
 
