@@ -1,69 +1,79 @@
-<h1 align="center">Shahadath Hossain Tamim 👋</h1>
-<h3 align="center">Competitive Programmer | Senior Software Engineer | Backend Engineer</h3>
+<!-- ======================= HEADER ======================= -->
 
----
-
-# 🧠 Competitive Programming
-
-- 🟢 **3000+ Problems Solved**
-- 🔵 LeetCode: 1100+
-- 🔴 Codeforces: 900+
-- 🟣 UVA: 300+
-- 🏆 ACM ICPC Dhaka Regional 2020 Participant
+<h1 align="center">Hi 👋, I'm Shahadath Hossain Tamim</h1>
+<h3 align="center">Senior Software Engineer | Backend & Distributed Systems Engineer</h3>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=baloo&ext=contest" />
+  <a href="https://github.com/tamim447">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Microservices+Architect;Kubernetes+%7C+Docker+%7C+CI%2FCD;Competitive+Programmer+%7C+3000%2B+Problems+Solved" />
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Senior Software Engineer at **KloverCloud** with 4+ years of experience building scalable backend systems.
-
-Strong foundation in:
-- Data Structures & Algorithms
-- Distributed backend systems
-- Secure authentication & authorization
-- CI/CD & Kubernetes-based deployments
-
-Passionate about performance optimization, clean architecture, and solving complex algorithmic problems.
+- 💼 Senior Software Engineer at **KloverCloud**
+- ⚙️ 4+ years building scalable backend systems
+- 🧠 Strong background in Data Structures & Algorithms (3000+ problems solved)
+- 🏆 ACM ICPC Dhaka Regional Participant
+- 🚀 Passionate about distributed systems, performance optimization & clean architecture
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## 🚀 Languages
+### 🚀 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java,cpp,c,erlang" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=go,java,cpp,c" />
 </p>
 
-## ⚙️ Backend & Architecture
+### ⚙️ Backend & Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://img.shields.io/badge/ECHO-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+  <img src="https://img.shields.io/badge/Microservices-00BFFF?style=for-the-badge&logo=icloud&logoColor=white" />
 </p>
 
-## ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,githubactions" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
 </p>
 
-## 🗄 Database
+### 🗄 Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 </p>
 
+### 🔐 Security
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Keycloak-0052CC?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/AzureAD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
 ---
 
-# 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+- 🔹 **Kubernetes Deployment Automation Platform**
+- 🔹 **Production-grade Authentication Service (JWT + Keycloak + AzureAD)**
+- 🔹 **Payment Gateway Integration (Stripe, SSLCommerz)**
+- 🔹 **GitOps-based CI/CD using ArgoCD & Tekton**
+- 🔹 **Secure Magic Link Authentication API (Go + MongoDB)**
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamim447&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tamim447&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamim447&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamim447&theme=tokyo-night&hide_border=true" />
@@ -71,14 +81,24 @@ Passionate about performance optimization, clean architecture, and solving compl
 
 ---
 
-# 🤝 Connect With Me
+## 🧠 Competitive Programming
 
-<p align="left">
+- 🟢 3000+ Problems Solved
+- 🔵 LeetCode: 1100+
+- 🔴 Codeforces: 900+
+- 🟣 UVA: 300+
+- 🏆 ACM ICPC Dhaka Regional 2020 Participant
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
   <a href="https://github.com/tamim447">
-    <img src="https://skillicons.dev/icons?i=github" height="35"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/shahadath-hossain-tamim-b26b80156/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:shahadathhossain447@gmail.com">
     <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -87,4 +107,12 @@ Passionate about performance optimization, clean architecture, and solving compl
 
 ---
 
-⭐ Consistency beats intensity.
+## 💡 Philosophy
+
+> “Consistency beats intensity. Clean code beats clever code.”
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories.
+</p>
