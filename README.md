@@ -1,17 +1,17 @@
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">Hi 👋, I'm Shahadath Hossain Tamim</h1>
-<h3 align="center">Senior Software Engineer | Backend & Distributed Systems Engineer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/tamim447">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Microservices+Architect;Kubernetes+%7C+Docker+%7C+CI%2FCD;Competitive+Programmer+%7C+3000%2B+Problems+Solved" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=600&lines=Competitive+Programmer+%7C+3000%2B+Problems+Solved;Backend+Engineer+%7C+Microservices;Kubernetes+%7C+Docker+%7C+CI%2FCD" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 💼 Senior Software Engineer at **KloverCloud**
 - ⚙️ 4+ years building scalable backend systems
@@ -30,13 +30,13 @@
 
 ### ⚙️ Backend & Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://img.shields.io/badge/Microservices-00BFFF?style=for-the-badge&logo=icloud&logoColor=white" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
 </p>
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 - 🔹 **Kubernetes Deployment Automation Platform**
 - 🔹 **Production-grade Authentication Service (JWT + Keycloak + AzureAD)**
@@ -81,7 +81,7 @@
 
 ---
 
-## 🧠 Competitive Programming
+### 🧠 Competitive Programming
 
 - 🟢 3000+ Problems Solved
 - 🔵 LeetCode: 1100+
@@ -91,9 +91,9 @@
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://github.com/tamim447">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
@@ -107,7 +107,7 @@
 
 ---
 
-## 💡 Philosophy
+### 💡 Philosophy
 
 > “Consistency beats intensity. Clean code beats clever code.”
 
