@@ -64,16 +64,16 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamim1715&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamim1715&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamim1715&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamim1715&theme=tokyo-night&hide_border=true" />
@@ -94,7 +94,7 @@
 ### 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/tamim447">
+  <a href="https://github.com/tamim1715">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/shahadath-hossain-tamim-b26b80156/">
