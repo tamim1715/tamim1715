@@ -25,7 +25,7 @@
 
 ### 🚀 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=java,go,c,cpp" />
 </p>
 
 ### ⚙️ Backend & Architecture
@@ -66,7 +66,7 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamim1715&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamim1715&theme=tokyonight&hide_border=true" height="160"/>
 </p>
@@ -84,7 +84,7 @@
 ### 🧠 Competitive Programming
 
 - 🟢 3000+ Problems Solved
-- 🔵 LeetCode: 1100+
+- 🔵 LeetCode: 1300+
 - 🔴 Codeforces: 900+
 - 🟣 UVA: 300+
 - 🏆 ACM ICPC Dhaka Regional 2020 Participant
