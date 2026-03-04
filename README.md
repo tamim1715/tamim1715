@@ -89,6 +89,10 @@
 - 🟣 UVA: 300+
 - 🏆 ACM ICPC Dhaka Regional 2020 Participant
 
+<p>
+  <img src="https://leetcard.jacoblin.cool/tamim447?theme=dark&font=baloo&ext=contest" />
+</p>
+
 ---
 
 ### 🤝 Connect With Me
