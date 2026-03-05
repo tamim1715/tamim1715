@@ -95,6 +95,16 @@
 
 ---
 
+### 🎓 Education
+
+**B.Sc. in Computer Science & Engineering**  
+Bangladesh University of Business and Technology (BUBT)  
+2017 – 2021  
+
+- Team Lead – BUBT BugBag (National & ACM ICPC Programming Contests)
+
+---
+
 ### 🤝 Connect With Me
 
 <p>
