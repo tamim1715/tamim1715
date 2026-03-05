@@ -24,14 +24,21 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Languages
+<!-- <p>
+  <img src="https://skillicons.dev/icons?i=java,go,c,cpp" />
+</p> -->
 <p>
   <img src="https://skillicons.dev/icons?i=java,go,c,cpp" />
+  <img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Architecture
 <p>
   <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://img.shields.io/badge/Echo-00BFFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microservices-00BFFF?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitOps-1E90FF?style=for-the-badge" />
 </p>
 
 ### ☁️ DevOps & Cloud
