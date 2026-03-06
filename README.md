@@ -45,6 +45,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo%20Workflow-FE5000?style=for-the-badge&logo=argo&logoColor=white" />
 </p>
 
 ### 🗄 Database
@@ -57,6 +58,7 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
   <img src="https://img.shields.io/badge/Keycloak-0052CC?style=for-the-badge&logo=keycloak&logoColor=white" />
   <img src="https://img.shields.io/badge/AzureAD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-8A2BE2?style=for-the-badge" />
 </p>
 
 ---
@@ -68,6 +70,20 @@
 - 🔹 **Payment Gateway Integration (Stripe, SSLCommerz)**
 - 🔹 **GitOps-based CI/CD using ArgoCD & Tekton**
 - 🔹 **Secure Magic Link Authentication API (Go + MongoDB)**
+
+---
+
+### 🧠 Competitive Programming
+
+- 🟢 3000+ Problems Solved
+- 🔵 LeetCode: 1300+
+- 🔴 Codeforces: 900+
+- 🟣 UVA: 300+
+- 🏆 ACM ICPC Dhaka Regional 2020 Participant
+
+<p>
+  <img src="https://leetcard.jacoblin.cool/tamim447?theme=dark&font=baloo&ext=contest" />
+</p>
 
 ---
 
@@ -84,20 +100,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamim1715&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🧠 Competitive Programming
-
-- 🟢 3000+ Problems Solved
-- 🔵 LeetCode: 1300+
-- 🔴 Codeforces: 900+
-- 🟣 UVA: 300+
-- 🏆 ACM ICPC Dhaka Regional 2020 Participant
-
-<p>
-  <img src="https://leetcard.jacoblin.cool/tamim447?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
