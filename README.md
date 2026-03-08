@@ -133,7 +133,8 @@ Bangladesh University of Business and Technology (BUBT)
 ### 💡 Philosophy
 
 > “Consistency beats intensity. Clean code beats clever code.”</br>
-> “Hard work beats talent when talent doesn't work hard.”
+> “Hard work beats talent when talent doesn't work hard.”</br>
+> "Small disciplines repeated with consistency every day lead to great achievements gained slowly over time."
 
 ---
 
