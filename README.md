@@ -21,6 +21,24 @@
 
 ---
 
+### 🔥 Professional Highlights
+
+- 💳 Designed & built a **subscription-based Billing & Payment System** with Stripe & SSLCOMMERZ  
+  (recurring payments, saved cards, promo codes, automated invoicing, billing buffer system)
+
+- ☁️ Modernized KloverCloud Container Platform with  
+  CI/CD automation, image vulnerability scanning, GitOps deployments, dynamic configmaps & secrets
+
+- 🔐 Designed secure **RBAC & Resource Policy System** for ADMIN / NON-ADMIN isolation
+
+- 🧠 Built **Agent Monitor & Release Management System** with version control & self-update automation
+
+- 👨‍🏫 Mentor for interns & junior engineers ensuring scalability & best practices
+
+- 🎤 Speaker on Algorithmic Problem Solving & Backend Architecture (KloverCloud 2024, BUBT 2021)
+  
+---
+
 ## 🛠 Tech Stack
 
 ### 🚀 Languages
