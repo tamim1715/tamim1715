@@ -83,11 +83,11 @@
 
 ### 🚀 Featured Projects
 
-- 🔹 **Kubernetes Deployment Automation Platform**
-- 🔹 **Production-grade Authentication Service (JWT + Keycloak + AzureAD)**
-- 🔹 **Payment Gateway Integration (Stripe, SSLCommerz)**
-- 🔹 **GitOps-based CI/CD using ArgoCD & Tekton**
-- 🔹 **Secure Magic Link Authentication API (Go + MongoDB)**
+-  **Kubernetes Deployment Automation Platform**
+-  **Production-grade Authentication Service (JWT + Keycloak + AzureAD)**
+-  **Payment Gateway Integration (Stripe, SSLCommerz)**
+-  **GitOps-based CI/CD using ArgoCD & Tekton**
+-  **Secure Magic Link Authentication API (Go + MongoDB)**
 
 ---
 
