@@ -25,7 +25,7 @@
 
 - 💳 Designed & built a **subscription-based Billing & Payment System** with Stripe & SSLCOMMERZ  
   (recurring payments, saved cards, promo codes, automated invoicing, billing buffer system)
-
+  
 - ☁️ Modernized KloverCloud Container Platform with  
   CI/CD automation, image vulnerability scanning, GitOps deployments, dynamic configmaps & secrets
 
