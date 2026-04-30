@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 💼 Senior Software Engineer at **KloverCloud**
-- ⚙️ 4+ years building scalable backend systems
+- ⚙️ 5 years building scalable backend systems
 - 🧠 Strong background in Data Structures & Algorithms (3000+ problems solved)
 - 🏆 ACM ICPC Dhaka Regional Participant
 - 🚀 Passionate about distributed systems, performance optimization & clean architecture
