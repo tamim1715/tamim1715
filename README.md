@@ -94,7 +94,7 @@
 ### 🧠 Competitive Programming
 
 - 🟢 3000+ Problems Solved
-- 🔵 LeetCode: 1300+
+- 🔵 LeetCode: 1400+
 - 🔴 Codeforces: 900+
 - 🟣 UVA: 300+
 - 🏆 ACM ICPC Dhaka Regional 2020 Participant
